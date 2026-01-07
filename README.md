@@ -4,21 +4,25 @@ This is my 2026 journey to learn Go. I've been dabbling with Go for the past yea
 commit and deeply focus on the language. I have a decent amount of experience with Python, but I'm looking to expand my
 knowledge of programming and need to step outside my comfort zone.
 
-I will be using a few structure resources, as I find it suits my learning style best. I will update my resources used
-here as I go. While I may use Claude AI a little bit, I will be focusing on NOT leaning on AI to help me learn and
-focusing on a deep, hands-on, arguably "legacy" style of learning. I truly think AI can be good in some senses, but I think
-the best way to learn is to struggle, grind and truly understand the fundamental roots.
+I will be using a few structured resources (Udemy course, Exercism and Learn Go with Tests), as I find it suits my learning 
+style best. I will update my resources used here as I go. While I may use Claude AI a little bit, I will be focusing on 
+NOT leaning on AI to help me learn and focusing on a deep, hands-on, arguably "legacy" style of learning. I truly think 
+leaning on AI too much is detrimental to your learning, so I will be trying to avoid it except to unblock myself or ask 
+for feedback or understanding. I will not be committing or leveraging any AI-generated code.
 
 ## Day 1
 Yesterday was mainly focused on purchasing the video course from Udemy and starting the first chapter. This is mainly
 an introduction to the language, history, why it was developed and other philosophical aspects — completed section 1
-and section 2. I also simple followed some examples in the learn go with tests introduction.
+and section 2. I also simply followed some examples in the `Learn go with Tests` written guide. Along with setting up Goland,
+Ubuntu and my personal local dev env.
 
 ## Day 2
+I could likely skip some of these introductory sections, but I'm committed to going through every section, even if it's just a refresher
+
 Setup this github repo and continued on the Udemy course material:
 - Raw string literals in Golang https://go.dev/ref/spec#String_literals
 - UTF-8 encoding. The progression of ASCII to Unicode to UTF-8
-- 
+- **Very** basic hands on exercise, using the `fmt` package to print some string literals and some text with emojis lol
 
 ---
 
