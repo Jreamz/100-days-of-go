@@ -23,7 +23,8 @@ Setup this github repo and continued on the Udemy course material:
 - Raw string literals in Golang https://go.dev/ref/spec#String_literals
 - UTF-8 encoding. The progression of ASCII to Unicode to UTF-8
 - **Very** basic hands on exercise, using the `fmt` package to print some string literals and some text with emojis lol
-
+- Another **very** basic exercise, using the `fmt.Printf` to print out some values in binary and hexidecimal format
+- Reviewing variables, types, zero values, and blank identifiers
 ---
 
 ## Practice/Video Resources
