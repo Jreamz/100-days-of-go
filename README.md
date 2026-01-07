@@ -29,11 +29,11 @@ Setup this github repo and continued on the Udemy course material:
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
+- https://quii.gitbook.io/learn-go-with-tests
 
-Helpful Documentation
+## Helpful Documentation
 - https://go.dev/doc/effective_go
 - https://gobyexample.com/
-- https://quii.gitbook.io/learn-go-with-tests
 - https://go-proverbs.github.io/
 - https://go.dev/ref/mod
 - https://tour.golang.org/welcome/1
