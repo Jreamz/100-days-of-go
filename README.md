@@ -25,6 +25,14 @@ Setup this github repo and continued on the Udemy course material:
 - **Very** basic hands on exercise, using the `fmt` package to print some string literals and some text with emojis lol
 - Another **very** basic exercise, using the `fmt.Printf` to print out some values in binary and hexidecimal format
 - Reviewing variables, types, zero values, and blank identifiers
+
+## Day 3
+- Reviewing numeral systems: decimal, binary & hexadecimal
+- Reviewed values, types, conversion and scope
+- Reviewed built-in/primitive/basic types, aggregate (e.g. array, slice, map) and composite types (e.g. struct)
+- Completed exercises 1-10 from [A Tour of Go](go.dev/tour/)
+
+
 ---
 
 ## Practice/Video Resources
