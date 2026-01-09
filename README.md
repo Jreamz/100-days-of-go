@@ -32,6 +32,11 @@ Setup this github repo and continued on the Udemy course material:
 - Reviewed built-in/primitive/basic types, aggregate (e.g. array, slice, map) and composite types (e.g. struct)
 - Completed exercises 1-10 from [A Tour of Go](go.dev/tour/)
 
+## Day 4
+- Completed exercises 10-17 from [A Tour of Go](go.dev/tour/)
+- This covered more on basic types, zero values, scope for variables/constants, implicit types, type conversion, type inference
+bitwise operations
+- Simple hands on exercise to visualize bitwise operations
 
 ---
 
