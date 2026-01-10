@@ -38,6 +38,12 @@ Setup this github repo and continued on the Udemy course material:
 bitwise operations
 - Simple hands on exercise to visualize bitwise operations
 
+
+## Day 5
+- Reading effective go docs and wiki on `iota` which is an auto-incrementing constant generator that resets
+on each new `const` block. A light day, but this took a bit longer than I expected. Haven't used something like iota
+in Python before.
+
 ---
 
 ## Practice/Video Resources
@@ -47,6 +53,7 @@ bitwise operations
 
 ## Helpful Documentation
 - https://go.dev/doc/effective_go
+- https://go.dev/wiki/
 - https://gobyexample.com/
 - https://go-proverbs.github.io/
 - https://go.dev/ref/mod
