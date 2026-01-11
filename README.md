@@ -44,6 +44,10 @@ bitwise operations
 on each new `const` block. A light day, but this took a bit longer than I expected. Haven't used something like iota
 in Python before.
 
+## Day 6
+- Udemy course hands on # 9: more on iota, measurings bits, bitwise operations
+- Super light day, only took about ~20 minutes
+
 ---
 
 ## Practice/Video Resources
