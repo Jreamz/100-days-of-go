@@ -52,8 +52,8 @@ in Python before.
 - Udemy course hands on # 10: just repeition on some core concepts, var declarations using short and long syntax, blank identifiers
 printing the type, using fmt.Print
 - Udemy course hands on # 11: Simple program to star 3 vars, string, int, float64 and then using fmt.Print verbs to print value and type
-- Udemy course hands on # 12: Baisc program to print var values in binary, hexadecimal and decimal
-- Udemy course hands on # 13: Baisc program to look up the max value for int8 and uint8 and print the type
+- Udemy course hands on # 12: Super basic program to print var values in binary, hexadecimal and decimal
+- Udemy course hands on # 13: Super basic program to look up the max value for int8 and uint8 and print the type
 ---
 
 ## Practice/Video Resources
