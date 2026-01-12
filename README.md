@@ -49,11 +49,16 @@ in Python before.
 - Super light day only took about ~20 minutes
 
 ## Day 7
-- Udemy course hands on # 10: just repeition on some core concepts, var declarations using short and long syntax, blank identifiers
+Note: A lot of this is REALLY basic, and I know almost all of this material in the Udemy course, thus far I already know.
+But I'm doing the content and exercises video by video even if I know almost all of this. This just helps me focus on repetition,
+and perhaps I may stumble upon something simple I didn't know already.
+
+- Udemy course hands on # 10: just repetition on some core concepts, var declarations using short and long syntax, blank identifiers
 printing the type, using fmt.Print
 - Udemy course hands on # 11: Simple program to star 3 vars, string, int, float64 and then using fmt.Print verbs to print value and type
 - Udemy course hands on # 12: Super basic program to print var values in binary, hexadecimal and decimal
 - Udemy course hands on # 13: Super basic program to look up the max value for int8 and uint8 and print the type
+
 ---
 
 ## Practice/Video Resources
