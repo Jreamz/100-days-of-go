@@ -46,8 +46,14 @@ in Python before.
 
 ## Day 6
 - Udemy course hands on # 9: more on iota, measurings bits, bitwise operations
-- Super light day, only took about ~20 minutes
+- Super light day only took about ~20 minutes
 
+## Day 7
+- Udemy course hands on # 10: just repeition on some core concepts, var declarations using short and long syntax, blank identifiers
+printing the type, using fmt.Print
+- Udemy course hands on # 11: Simple program to star 3 vars, string, int, float64 and then using fmt.Print verbs to print value and type
+- Udemy course hands on # 12: Baisc program to print var values in binary, hexadecimal and decimal
+- Udemy course hands on # 13: Baisc program to look up the max value for int8 and uint8 and print the type
 ---
 
 ## Practice/Video Resources
