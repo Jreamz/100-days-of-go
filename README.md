@@ -49,7 +49,7 @@ in Python before.
 - Super light day only took about ~20 minutes
 
 ## Day 7
-Note: A lot of this is REALLY basic, and I know almost all of this material in the Udemy course, thus far I already know.
+Note: A lot of this is REALLY basic, and I know almost all of this material in the Udemy course, thus far, already.
 But I'm doing the content and exercises video by video even if I know almost all of this. This just helps me focus on repetition,
 and perhaps I may stumble upon something simple I didn't know already.
 
