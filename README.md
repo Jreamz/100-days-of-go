@@ -59,6 +59,12 @@ printing the type, using fmt.Print
 - Udemy course hands on # 12: Super basic program to print var values in binary, hexadecimal and decimal
 - Udemy course hands on # 13: Super basic program to look up the max value for int8 and uint8 and print the type
 
+## Day 8
+
+- Started working on an MVP related work project with TPMs. Mainly around using google/go-attestation and google/go-tpm
+- Create basic structure of `main.go`, `api.go` and `client.go` with basic structs and functions
+- Started working on the TPM client and API cross-referencing existing test_client
+
 ---
 
 ## Practice/Video Resources
