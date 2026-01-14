@@ -64,6 +64,13 @@ printing the type, using fmt.Print
 - Started working on an MVP related work project with TPMs. Mainly around using google/go-attestation and google/go-tpm
 - Create basic structure of `main.go`, `api.go` and `client.go` with basic structs and functions
 - Started working on the TPM client and API cross-referencing existing test_client
+- Completed Udemy course on global scope, package scope and block scope
+
+## Day 9
+
+- Continued reviewing multiple TPM libraries: go-tpm, go-attestation, go-tpm2
+- Udemy course wrapping up section on scope
+- Started Udemy course videos on go mod and dependenc management in Golang
 
 ---
 
