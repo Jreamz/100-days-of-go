@@ -70,9 +70,17 @@ printing the type, using fmt.Print
 
 - Continued reviewing multiple TPM libraries: go-tpm, go-attestation, go-tpm2
 - Udemy course wrapping up section on scope
-- Started Udemy course videos on go mod and dependenc management in Golang
+- Started Udemy course videos on go mod and dependecymanagement in Golang
 
----
+## Day 10
+- Completed section on Go mod and package management in Golang
+- Continuing working on a simple implementation of TPM client using go-attestation and go-tpm
+
+ ---
+## Day 11
+- Further work on TPM client using go-attestation and go-tpm
+- Not quite golang, but read a bunch of TPM related articles, docs and specifications
+- Continued Udemy course video section on dependency management
 
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
