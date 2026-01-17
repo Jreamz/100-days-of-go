@@ -81,6 +81,13 @@ printing the type, using fmt.Print
 - Not quite golang, but read a bunch of TPM related articles, docs and specifications
 - Continued Udemy course video section on dependency management
 
+## Day 12
+- Continued working on TPM client using go-attestation and go-tpm
+
+## Day 13
+- Still grinding on TPM client using go-attestation and go-tpm
+- Wrapped up Udemy course video section on dependency management
+
 ---
 
 ## Practice/Video Resources
