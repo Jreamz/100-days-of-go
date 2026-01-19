@@ -88,6 +88,10 @@ printing the type, using fmt.Print
 - Still grinding on TPM client using go-attestation and go-tpm
 - Wrapped up Udemy course video section on dependency management
 
+## Day 14
+- Refactored TPM client with better use of functions and syscalls
+- Read Chapter 2 of my book "Learning Go" by Jon Bodner
+
 ---
 
 ## Practice/Video Resources
