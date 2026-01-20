@@ -92,6 +92,11 @@ printing the type, using fmt.Print
 - Refactored TPM client with better use of functions and syscalls
 - Read Chapter 2 of my book "Learning Go" by Jon Bodner
 
+## Day 15
+- Started Chapter 3 of my book "Learning Go" by Jon Bodner
+- Completed all the simple hands-on exercises in Section 9 of Udemy Course which was mainly focused on Git and Package
+management using `go get` and `go mod`
+
 ---
 
 ## Practice/Video Resources
