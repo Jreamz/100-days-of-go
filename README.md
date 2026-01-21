@@ -97,6 +97,11 @@ printing the type, using fmt.Print
 - Completed all the simple hands-on exercises in Section 9 of Udemy Course which was mainly focused on Git and Package
 management using `go get` and `go mod`
 
+## Day 16
+- Completed Chapter 3 of "Learning Go"
+- Further work on the UML diagrams for TPM client using go-attest and go-tpm
+- Implemented a simple part of this project which gets smbios info using dmidecode using os/exec.Command
+
 ---
 
 ## Practice/Video Resources
