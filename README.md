@@ -102,6 +102,10 @@ management using `go get` and `go mod`
 - Further work on the UML diagrams for TPM client using go-attest and go-tpm
 - Implemented a simple part of this project which gets smbios info using dmidecode using os/exec.Command
 
+## Day 17
+- More work related Golang with TPM client
+- Understanding Exported/Unexported structs, fields and methods
+- Worked on update UML diagram and created the initial abstraction for tpm.go
 ---
 
 ## Practice/Video Resources
