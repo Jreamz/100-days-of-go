@@ -106,6 +106,11 @@ management using `go get` and `go mod`
 - More work related Golang with TPM client
 - Understanding Exported/Unexported structs, fields and methods
 - Worked on update UML diagram and created the initial abstraction for tpm.go
+
+## Day 18
+- Continued iteration on using go-attestation and go-tpm to interact with TPM
+- Got the TPM simulator working locally, need to address feedback on the PR
+- Learned more about "idiomatic" ways to define structs that are exported vs unexported
 ---
 
 ## Practice/Video Resources
