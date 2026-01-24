@@ -111,6 +111,11 @@ management using `go get` and `go mod`
 - Continued iteration on using go-attestation and go-tpm to interact with TPM
 - Got the TPM simulator working locally, need to address feedback on the PR
 - Learned more about "idiomatic" ways to define structs that are exported vs unexported
+
+## Day 19
+- More work on the TPM client, with a refactor using interfaces and structs
+- Trying to understand the "idiomatic" way to define these - especially in the context of exposing a client
+- Re-reading parts of Chapter 3 of "Learning Go" and starting chapter 4
 ---
 
 ## Practice/Video Resources
