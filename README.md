@@ -116,6 +116,17 @@ management using `go get` and `go mod`
 - More work on the TPM client, with a refactor using interfaces and structs
 - Trying to understand the "idiomatic" way to define these - especially in the context of exposing a client
 - Re-reading parts of Chapter 3 of "Learning Go" and starting chapter 4
+
+## Day 20
+- Writing more structs, interfaces and methods to better understand the patterns in Go vs OOP like Python
+- Jumped a chapter ahead in "Learning Go" and reading about interfaces, types and implicit types
+
+## Day 21
+- Did some work on TPM client, need to understand the AK/EK types of attestation better
+- Watched some videos on control flow via the Udemy course. However, I am already quite familiar with this so I opted
+to switch to Learn Go with Tests and focused specifically on structs/types/interfaces, as I need to implement tests
+on my project I am working on at work
+
 ---
 
 ## Practice/Video Resources
