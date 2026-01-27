@@ -127,6 +127,10 @@ management using `go get` and `go mod`
 to switch to Learn Go with Tests and focused specifically on structs/types/interfaces, as I need to implement tests
 on my project I am working on at work
 
+## Day 22
+- Spent pretty much the whole day at work trying to understand types, structs, methods, funcs and go patterns
+  - Trying to understand how I can convert an EK public certificate into a TPMT public format for attestation
+
 ---
 
 ## Practice/Video Resources
