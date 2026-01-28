@@ -131,6 +131,9 @@ on my project I am working on at work
 - Spent pretty much the whole day at work trying to understand types, structs, methods, funcs and go patterns
   - Trying to understand how I can convert an EK public certificate into a TPMT public format for attestation
 
+## Day 23
+- Hitting up some boot.dev and completed 4 lessons
+- Finally figured out how to convert an EK public certificate into a TPMT public format for attestation
 ---
 
 ## Practice/Video Resources
