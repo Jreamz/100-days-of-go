@@ -134,6 +134,10 @@ on my project I am working on at work
 ## Day 23
 - Hitting up some boot.dev and completed 4 lessons
 - Finally figured out how to convert an EK public certificate into a TPMT public format for attestation
+
+## Day 24
+- Battled go-attest and go-tpm - Switching to os.Exec and going to wrap tpm2-tools for TPM2 ops
+- Started looking into httptest and testify for testing
 ---
 
 ## Practice/Video Resources
