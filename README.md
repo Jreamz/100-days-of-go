@@ -138,6 +138,10 @@ on my project I am working on at work
 ## Day 24
 - Battled go-attest and go-tpm - Switching to os.Exec and going to wrap tpm2-tools for TPM2 ops
 - Started looking into httptest and testify for testing
+
+## Day 25
+- Refactored a big chunk of the TPM client at work to just wrap tpm2-tools, the go-attest library and go-tpm was too low
+level for me and requires deep knowledge of TPM internals and the TPM2.0 spec.
 ---
 
 ## Practice/Video Resources
