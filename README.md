@@ -142,6 +142,15 @@ on my project I am working on at work
 ## Day 25
 - Refactored a big chunk of the TPM client at work to just wrap tpm2-tools, the go-attest library and go-tpm was too low
 level for me and requires deep knowledge of TPM internals and the TPM2.0 spec.
+
+## Day 26
+- Reviewed tpm client wrapping tpm2-tools and got most of it working, pending pr review from team
+
+## Day 27
+- Light day and just read some of my "Learning Go" book
+
+## Day 28
+- Did some boot.dev practices questions and read some more of my "Learning GO" book again   
 ---
 
 ## Practice/Video Resources
