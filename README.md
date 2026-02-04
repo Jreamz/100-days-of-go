@@ -150,8 +150,16 @@ level for me and requires deep knowledge of TPM internals and the TPM2.0 spec.
 - Light day and just read some of my "Learning Go" book
 
 ## Day 28
-- Did some boot.dev practices questions and read some more of my "Learning GO" book again   
----
+- Did some boot.dev practices questions and read some more of my "Learning GO" book again
+
+## Day 29
+- Continued reading my "Learning Go" book, light day, not feeling well single dad life taking care of a kid
+while also being sick lol :/
+
+## Day 30
+- Reviewed some comments on my PR at work, with a focus on CGO, wrapping binaries and potentially using canonical go-tpm
+- Continued reading my "Learning Go" book, I've been bouncing between chapters, but about to complete chapter 4
+- Did some boot.dev practice questions on Loops and Slices
 
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
