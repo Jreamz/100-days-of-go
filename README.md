@@ -161,6 +161,10 @@ while also being sick lol :/
 - Continued reading my "Learning Go" book, I've been bouncing between chapters, but about to complete chapter 4
 - Did some boot.dev practice questions on Loops and Slices
 
+## Day 31
+- Large refactor on TPM client work at work, addressing PR commentss
+- Some more "Learning GO" book reading
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
