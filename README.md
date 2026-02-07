@@ -165,6 +165,14 @@ while also being sick lol :/
 - Large refactor on TPM client work at work, addressing PR commentss
 - Some more "Learning GO" book reading
 
+## Day 32
+- Addressing more comments at work on TPM client
+
+## Day 33
+- Finally made all the final changes to TPM client and merged PR. Need to refactor
+some of the logging and was able to make the tpm2 handler more generic and orchestrate via client
+
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
