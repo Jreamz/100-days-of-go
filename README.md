@@ -172,6 +172,12 @@ while also being sick lol :/
 - Finally made all the final changes to TPM client and merged PR. Need to refactor
 some of the logging and was able to make the tpm2 handler more generic and orchestrate via client
 
+## Day 34
+- Light day, did some reading on Learning Go and did some boot.dev
+
+## Day 35
+- Worked on Unit tests for my http/tpm project at work
+- Did a couple more boot.dev practice questions
 
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
