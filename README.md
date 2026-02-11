@@ -179,6 +179,13 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 - Worked on Unit tests for my http/tpm project at work
 - Did a couple more boot.dev practice questions
 
+## Day 36
+- Completed basic unit tests for http.go
+
+## Day 37
+- Completed a refactor to run tpm client on real hardware (not virtualized)
+- Continuing some boot.dev Golang course
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
