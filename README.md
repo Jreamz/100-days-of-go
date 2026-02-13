@@ -186,6 +186,14 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 - Completed a refactor to run tpm client on real hardware (not virtualized)
 - Continuing some boot.dev Golang course
 
+## Day 38
+- Refactoring some Go at work for TPM client
+- Little boot.dev
+
+## Day 39
+- Reading some Learning Go
+- And just a couple boot.dev questions
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
