@@ -194,6 +194,13 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 - Reading some Learning Go
 - And just a couple boot.dev questions
 
+## Day 40
+- Light day, not feeling well at all - Read more about functions in "Learning Go"
+
+## Day 41
+- Continuing reading "Learning Go" and completed section on Slices in Go
+- Started section on Maps in Go course boot.dev
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
