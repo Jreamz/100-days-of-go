@@ -201,6 +201,20 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 - Continuing reading "Learning Go" and completed section on Slices in Go
 - Started section on Maps in Go course boot.dev
 
+## Day 42
+- Just a boot.dev lesson on maps
+
+## Day 43
+- Again more boot.dev on maps
+
+## Day 44
+- Just reading from "Learning Go", light day
+
+## Day 45
+- Refactored work project using smbios go lib and adjusted for api changes
+- Started looking into unit tests for tpm and client code
+
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
