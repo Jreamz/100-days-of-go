@@ -214,6 +214,9 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 - Refactored work project using smbios go lib and adjusted for api changes
 - Started looking into unit tests for tpm and client code
 
+## Day 46
+- Some Go at work with TPM2
+
 
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
