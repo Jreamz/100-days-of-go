@@ -217,6 +217,9 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 ## Day 46
 - Some Go at work with TPM2
 
+## Day 47
+- Go TPM stuff at work
+- Simple handson exercise for hashing
 
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
