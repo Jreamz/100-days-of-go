@@ -221,6 +221,12 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 - Go TPM stuff at work
 - Simple handson exercise for hashing
 
+## Day 48
+- RIP light day of reading
+
+## Day 49
+- Exercism challenge #19 Elon's Toys
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
