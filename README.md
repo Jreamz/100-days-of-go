@@ -227,6 +227,14 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 ## Day 49
 - Exercism challenge #19 Elon's Toys
 
+
+## Day 50
+- Golang at work, input sanization on os.Exec Commands
+
+## Day 51
+- Exercism challenge #20 Bird-Watcher
+- ByteSizeGo flow
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
