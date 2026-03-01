@@ -235,6 +235,10 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 - Exercism challenge #20 Bird-Watcher
 - ByteSizeGo flow
 
+## Day 52
+- Completed challenge #20 Bird-Watcher
+- Started challenge #21 Card Tricks
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
