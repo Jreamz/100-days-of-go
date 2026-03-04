@@ -239,6 +239,12 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 - Completed challenge #20 Bird-Watcher
 - Started challenge #21 Card Tricks
 
+## Day 53
+- Cheat day, barely any Go, tiny bit of reading
+
+## Day 54
+- Completed challenge #21 Card Tricks
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
