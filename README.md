@@ -243,7 +243,10 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 - Cheat day, barely any Go, tiny bit of reading
 
 ## Day 54
-- Completed challenge #21 Card Tricks
+- Completed exercism Go challenge #21 Card Tricks
+
+## Day 55
+- Completed exercism Go challenge #22 Logs, Logs, Logs 
 
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
