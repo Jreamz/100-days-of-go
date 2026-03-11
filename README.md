@@ -254,6 +254,9 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 ## Day 57
 - Completed exercism Go challenge #24 Chessboard
 
+## Day 58
+- Completed exercism Go challeange #25 Airport Robot
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
