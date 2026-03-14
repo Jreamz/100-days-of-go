@@ -264,7 +264,7 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 - Working on some go, chi & htmx application for creating users
 
 ## 61
-- 
+- Completed exercism Go challenge #26 The Farm (a bit contrived tbh, not a fan of this one)
 
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
