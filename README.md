@@ -266,6 +266,9 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 ## 61
 - Completed exercism Go challenge #26 The Farm (a bit contrived tbh, not a fan of this one)
 
+## 62
+- Continuing working on my go, chi & htmx application: https://github.com/Jreamz/ainur
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
