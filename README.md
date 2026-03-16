@@ -260,14 +260,17 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 ## Day 59
 - Go at work lol
 
-## 60
+## Day 60
 - Working on some go, chi & htmx application for creating users
 
-## 61
+## Day 61
 - Completed exercism Go challenge #26 The Farm (a bit contrived tbh, not a fan of this one)
 
-## 62
+## Day 62
 - Continuing working on my go, chi & htmx application: https://github.com/Jreamz/ainur
+
+## Day 63
+- A ton of progress on go+htmx user creation app: https://github.com/Jreamz/ainur/commit/3341fe3d27dd064ac83f84992f89c88d5b38ef4a
 
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
