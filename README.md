@@ -272,6 +272,9 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 ## Day 63
 - A ton of progress on go+htmx user creation app: https://github.com/Jreamz/ainur/commit/3341fe3d27dd064ac83f84992f89c88d5b38ef4a
 
+## Day 64
+- Some more progress on the go+htx Ainur user creation app: https://github.com/Jreamz/ainur/commit/f847fd4f461174689ed93713bbd1758c135a7805
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
