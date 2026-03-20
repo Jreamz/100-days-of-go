@@ -281,6 +281,10 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 ## Day 66
 - Added search page with handlers and routes and stub data for querying users with update, delete, reset, generate actions
 
+## Day 67
+- Tons of work on Ainur, setup dev authentik server, ui/ux changes, handler and client changes - successfully creating and searching users!
+https://github.com/Jreamz/ainur/commits/main/
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
