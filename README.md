@@ -285,6 +285,9 @@ some of the logging and was able to make the tpm2 handler more generic and orche
 - Tons of work on Ainur, setup dev authentik server, ui/ux changes, handler and client changes - successfully creating and searching users!
 https://github.com/Jreamz/ainur/commits/main/
 
+## Day 68, 69, 70, 71
+- A ton of work on Ainur (HARP) adding additional handlers, ui functionality, readme, docker-compose, etc. See all commits here: https://github.com/Jreamz/ainur
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
