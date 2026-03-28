@@ -288,6 +288,15 @@ https://github.com/Jreamz/ainur/commits/main/
 ## Day 68, 69, 70, 71
 - A ton of work on Ainur (HARP) adding additional handlers, ui functionality, readme, docker-compose, etc. See all commits here: https://github.com/Jreamz/ainur
 
+## Day 72
+- Go stuffs at work lol
+
+## Day 73
+- Continued some work on Harp (was named Ainur)
+
+## Day 74
+- More work adding functionality on HARP: https://github.com/Jreamz/harp/commit/a8b3bfcc5c31603a8a10cc006a0ace5575941443
+
 ## Practice/Video Resources
 - https://www.udemy.com/course/learn-how-to-code/
 - https://exercism.org/tracks/go
